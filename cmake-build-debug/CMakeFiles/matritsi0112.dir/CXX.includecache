@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/Desktop/prog/Лабы/matritsi0112/cmake-build-debug/matritsi.cpp
+matritsi.h
+/Users/admin/Desktop/prog/Лабы/matritsi0112/cmake-build-debug/matritsi.h
+iostream
+-
+iomanip
+-
+stdexcept
+-
+
+/Users/admin/Desktop/prog/Лабы/matritsi0112/cmake-build-debug/matritsi.h
+iostream
+-
+
+/Users/admin/Desktop/prog/Лабы/matritsi0112/main.cpp
+matrix.h
+/Users/admin/Desktop/prog/Лабы/matritsi0112/matrix.h
+iostream
+-
+iomanip
+-
+stdexcept
+-
+
