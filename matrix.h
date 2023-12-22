@@ -26,13 +26,6 @@ public:
     matrix& operator+=(const matrix& other);
     matrix& operator-=(const matrix& other);
 
- ///Умножение на константу слева:
-
-
-
- ///Умножение на константу слева:
-
-
 
  ///Деление на константу:
     matrix& operator/=(double scalar);
